@@ -1,3 +1,6 @@
 [submodule "go-reloaded"]
 	path = go-reloaded
 	url = https://github.com/Paoower/go-reloaded.git
+[submodule "piscine-go/piscine-go"]
+	path = piscine-go/piscine-go
+	url = https://github.com/Paoower/piscine-go.git
