@@ -67,3 +67,6 @@
 [submodule "groupie-tracker/groupie-tracker-visualizations"]
 	path = groupie-tracker/groupie-tracker-visualizations
 	url = https://github.com/Paoower/groupie-tracker-visualizations.git
+[submodule "wget"]
+	path = wget
+	url = https://github.com/Paoower/wget.git
