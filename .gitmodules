@@ -19,3 +19,6 @@
 [submodule "git"]
 	path = git
 	url = https://github.com/Paoower/Git.git
+[submodule "mathematics/math-skills"]
+	path = mathematics/math-skills
+	url = https://github.com/Paoower/math-skills.git
