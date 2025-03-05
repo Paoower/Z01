@@ -52,3 +52,18 @@
 [submodule "ascii-art-web/ascii-art-web-stylize"]
 	path = ascii-art-web/ascii-art-web-stylize
 	url = https://github.com/Paoower/ascii-art-web-stylize.git
+[submodule "groupie-tracker/groupie-tracker"]
+	path = groupie-tracker/groupie-tracker
+	url = https://github.com/Paoower/groupie-tracker.git
+[submodule "groupie-tracker/groupie-tracker-filters"]
+	path = groupie-tracker/groupie-tracker-filters
+	url = https://github.com/Paoower/groupie-tracker-filters.git
+[submodule "groupie-tracker/groupie-tracker-geolocalization"]
+	path = groupie-tracker/groupie-tracker-geolocalization
+	url = https://github.com/Paoower/groupie-tracker-geolocalization.git
+[submodule "groupie-tracker/groupie-tracker-search-bar"]
+	path = groupie-tracker/groupie-tracker-search-bar
+	url = https://github.com/Paoower/groupie-tracker-search-bar.git
+[submodule "groupie-tracker/groupie-tracker-visualizations"]
+	path = groupie-tracker/groupie-tracker-visualizations
+	url = https://github.com/Paoower/groupie-tracker-visualizations.git
