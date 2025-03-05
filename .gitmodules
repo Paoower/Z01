@@ -1,0 +1,3 @@
+[submodule "go-reloaded"]
+	path = go-reloaded
+	url = https://github.com/Paoower/go-reloaded.git
