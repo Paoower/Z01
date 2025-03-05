@@ -4,3 +4,6 @@
 [submodule "piscine-go/piscine-go"]
 	path = piscine-go/piscine-go
 	url = https://github.com/Paoower/piscine-go.git
+[submodule "tetris-optimizer"]
+	path = tetris-optimizer
+	url = https://github.com/Paoower/tetris-optimizer.git
