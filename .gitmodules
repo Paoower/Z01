@@ -73,3 +73,15 @@
 [submodule "lem-in"]
 	path = lem-in
 	url = https://github.com/Paoower/lem-in.git
+[submodule "piscine-js/piscine-js"]
+	path = piscine-js/piscine-js
+	url = https://github.com/Paoower/piscine-js.git
+[submodule "piscine-js/crossword"]
+	path = piscine-js/crossword
+	url = https://github.com/Paoower/crossword.git
+[submodule "piscine-js/sortable"]
+	path = piscine-js/sortable
+	url = https://github.com/Paoower/sortable.git
+[submodule "piscine-js/clonernews"]
+	path = piscine-js/clonernews
+	url = https://github.com/Paoower/clonernews.git
