@@ -7,3 +7,12 @@
 [submodule "tetris-optimizer"]
 	path = tetris-optimizer
 	url = https://github.com/Paoower/tetris-optimizer.git
+[submodule "piscine-go/quad"]
+	path = piscine-go/quad
+	url = https://github.com/Paoower/quad.git
+[submodule "piscine-go/sudoku"]
+	path = piscine-go/sudoku
+	url = https://github.com/Paoower/sudoku.git
+[submodule "piscine-go/quadchecker"]
+	path = piscine-go/quadchecker
+	url = https://github.com/Paoower/quadchecker.git
