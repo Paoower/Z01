@@ -16,3 +16,6 @@
 [submodule "piscine-go/quadchecker"]
 	path = piscine-go/quadchecker
 	url = https://github.com/Paoower/quadchecker.git
+[submodule "git"]
+	path = git
+	url = https://github.com/Paoower/Git.git
