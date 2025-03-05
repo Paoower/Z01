@@ -40,3 +40,15 @@
 [submodule "ascii-art/ascii-art-reverse"]
 	path = ascii-art/ascii-art-reverse
 	url = https://github.com/Paoower/ascii-art-reverse.git
+[submodule "ascii-art-web/ascii-art-web"]
+	path = ascii-art-web/ascii-art-web
+	url = https://github.com/Paoower/ascii-art-web.git
+[submodule "ascii-art-web/ascii-art-web-dockerize"]
+	path = ascii-art-web/ascii-art-web-dockerize
+	url = https://github.com/Paoower/ascii-art-web-dockerize.git
+[submodule "ascii-art-web/ascii-art-web-export-file"]
+	path = ascii-art-web/ascii-art-web-export-file
+	url = https://github.com/Paoower/ascii-art-web-export-file.git
+[submodule "ascii-art-web/ascii-art-web-stylize"]
+	path = ascii-art-web/ascii-art-web-stylize
+	url = https://github.com/Paoower/ascii-art-web-stylize.git
