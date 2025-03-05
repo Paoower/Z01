@@ -22,3 +22,21 @@
 [submodule "mathematics/math-skills"]
 	path = mathematics/math-skills
 	url = https://github.com/Paoower/math-skills.git
+[submodule "ascii-art/ascii-art"]
+	path = ascii-art/ascii-art
+	url = https://github.com/Paoower/ascii-art.git
+[submodule "ascii-art/ascii-art-color"]
+	path = ascii-art/ascii-art-color
+	url = https://github.com/Paoower/ascii-art-color.git
+[submodule "ascii-art/ascii-art-fs"]
+	path = ascii-art/ascii-art-fs
+	url = https://github.com/Paoower/ascii-art-fs.git
+[submodule "ascii-art/ascii-art-justify"]
+	path = ascii-art/ascii-art-justify
+	url = https://github.com/Paoower/ascii-art-justify.git
+[submodule "ascii-art/ascii-art-output"]
+	path = ascii-art/ascii-art-output
+	url = https://github.com/Paoower/ascii-art-output.git
+[submodule "ascii-art/ascii-art-reverse"]
+	path = ascii-art/ascii-art-reverse
+	url = https://github.com/Paoower/ascii-art-reverse.git
