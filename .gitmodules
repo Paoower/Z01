@@ -85,3 +85,6 @@
 [submodule "piscine-js/clonernews"]
 	path = piscine-js/clonernews
 	url = https://github.com/Paoower/clonernews.git
+[submodule "make-your-game/make-your-game"]
+	path = make-your-game/make-your-game
+	url = https://github.com/Paoower/make-your-game.git
